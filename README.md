@@ -34,4 +34,4 @@ I'm using an old python3.6 version since that was the library used the project. 
 
 Execute the `churn_script_logging_and_tests.py` script to perform the full data science pipeline:
 
-``` ipython churn_script_logging_and_tests.py ``` 
+``` python churn_script_logging_and_tests.py ``` 
