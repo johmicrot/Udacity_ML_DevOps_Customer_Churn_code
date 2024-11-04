@@ -26,6 +26,10 @@ This project aims to predict customer churn for a bank by analyzing customer dat
 
 ## Running the Files
 
+### 1. Setting up enviornment
+
+Install the requirements first with  `python -m pip install -r requirements_py3.6.txt`
+
 ### 1. Running the Main Script
 
 Execute the `churn_script_logging_and_tests.py` script to perform the full data science pipeline:
