@@ -28,7 +28,7 @@ This project aims to predict customer churn for a bank by analyzing customer dat
 
 ### 1. Setting up enviornment
 
-Install the requirements first with  `python -m pip install -r requirements_py3.6.txt`
+I'm using an old python3.6 version since that was the library used the project.  I would reccomend you use anaconda to install python3.6, then install all dependencies with `pip install -r requirements_py3.6.txt`
 
 ### 2. Running the Main Script
 
